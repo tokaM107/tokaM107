@@ -1,4 +1,6 @@
 ### Hi there 👋
+Just a girl passionate about computers.
+
 
 <!--
 **tokaM107/tokaM107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
