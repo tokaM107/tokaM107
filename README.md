@@ -1,6 +1,10 @@
 ### 👋 Hey there, I’m Toka!
 Just a girl passionate about data 📈
 ### 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Double&size=25&pause=1000&color=F0F74C&width=435&lines=Welcome+to+my+pond+%F0%9F%90%A3)](https://git.io/typing-svg)
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjlkeDhwOXl3Z2J4bDE3dW84MXZjbW40bndtZDQ4MjR5NXdsbGxwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6N5xYcINzjEg8/giphy.gif" width="50%"/>
+
 
 A coffee-fueled explorer of patterns, outliers, and all things data ☕📊  
 Currently juggling:
