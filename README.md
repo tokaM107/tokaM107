@@ -32,7 +32,7 @@ I take forever to study lectures—**not** because I'm slow, but because I like 
 
 #### 🔗 Let’s connect 👀:
 - 💼 [LinkedIn](https://www.linkedin.com/in/tokam107/)
-- 📬 Or just drop a data pigeon… jk, email works too [gemail](toqamo031@gmail.com).
+- 📬 Or just drop a data pigeon… jk, email works too [gmail](toqamo031@gmail.com).
 
 ---
 
