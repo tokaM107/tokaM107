@@ -38,7 +38,7 @@ I take forever to study lectures—**not** because I'm slow, but because I like 
 
 ### ✨ Currently working on:
 - Healing my Mental health after graduation 🧑‍🎓🧠🌈
-- Keep learning AI and make serval projects 🤖
+- Keep learning AI and make several projects 🤖
 - Developing curriculums and Teaching programming to the next-gen coders (12-year-old bug squashers unite!)
 - Getting better at balancing religion, life, study, and a 99-tab safari session 🙃
 
