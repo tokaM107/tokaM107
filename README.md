@@ -1,48 +1,50 @@
 ### 👋 Hey there, I’m Toka!
-Just a girl passionate about data 📈
+Just a girl passionate about math & data 📈
 ### 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Double&size=25&pause=1000&color=F0F74C&width=435&lines=Welcome+to+my+pond+%F0%9F%90%A3)](https://git.io/typing-svg)
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjlkeDhwOXl3Z2J4bDE3dW84MXZjbW40bndtZDQ4MjR5NXdsbGxwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6N5xYcINzjEg8/giphy.gif" width="100%"/>
 
 
-A coffee-fueled explorer of patterns, outliers, and all things data ☕📊  
+An explorer of patterns, outliers, and all things data ☕📊  
 Currently juggling:
-- 📚 My life as a Computer & Data Science student
-- 🧠 Deep dives into machine learning 
-- 💡 Turning raw data into dashboards that *actually* make sense
-- 🎮 Hacking together smart systems 
+- 📚 My life as a Computer & Data Science GRADUATE    
+- 🧠 Deep dives into machine learning & AI 
+- 💡 Turning raw data into insights that *actually* make sense
+- 🎮 Learning about AI and LLMs 
 
 ---
 
-#### 🛠️ What’s in my toolkit?
-| 🔍 Data Wrangling | 🧠 Machine Learning | 📊 Visualization |
-|------------------|--------------------|------------------|
-| Python (my BFF), Pandas, NumPy, Polars | Scikit-learn, Transformers, LLMs | Excel, Power BI, Tableau, Matplotlib |
-| SQL  | Decision Trees to LLaMA | Dashboards that tell stories |
+#### 🛠️ What's in My Toolkit?
+
+| 📊 Data & Analytics | 🧠 Machine Learning | 🤖 AI |
+|---------------------|---------------------|--------|
+| Python, SQL | Scikit-learn | Transformers |
+| Pandas, NumPy | Classification & Regression | LLMs |
+| Excel, Power BI, Tableau | Model Evaluation | Prompt Engineering |
+| Matplotlib, Seaborn | Data Preprocessing | AI Applications |
 
 ---
-
 #### 🧩 Fun fact:
 I take forever to study lectures—**not** because I'm slow, but because I like to dig deep and *really* understand what’s going on. Perfectionist? Maybe. Passionate? Definitely.
 
 ---
 
-#### 🔗 Let’s connect (unless you're an outlier 👀):
+#### 🔗 Let’s connect 👀:
 - 💼 [LinkedIn](https://www.linkedin.com/in/tokam107/)
-- 📬 Or just drop a data pigeon… jk, email works too.
+- 📬 Or just drop a data pigeon… jk, email works too [gemail](toqamo031@gmail.com).
 
 ---
 
 ### ✨ Currently working on:
-- Multi-model local transport assistant (coming soon 💥)
-- A personalized travel recommender system (coming soon 🚀)
-- Teaching programming to the next-gen coders (12-year-old bug squashers unite!)
-- Getting better at balancing religion, life, study, and a 99-tab Chrome session 🙃
+- Healing my Mental health after graduation 🧑‍🎓🧠🌈
+- Keep learning AI and make serval projects 🤖
+- Developing curriculums and Teaching programming to the next-gen coders (12-year-old bug squashers unite!)
+- Getting better at balancing religion, life, study, and a 99-tab safari session 🙃
 
 ---
 
-> “In a world of noise, be the clean dataset.”
+> “Just Forget about average and be an OUTLIER ❤️‍🔥”
 
 Thanks for stopping by! Scroll through my pinned projects for a peek at my favorite adventures in data-land. 🚀
 
